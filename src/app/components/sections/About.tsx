@@ -78,7 +78,7 @@ export function About() {
             <div className="relative z-10 p-1 bg-gradient-to-br from-red-900/50 to-transparent rounded-full backdrop-blur-sm border border-red-900/30">
               <div className="aspect-square rounded-full bg-black/40 overflow-hidden flex items-center justify-center border border-red-900/20">
                 <ImageWithFallback
-                  src="src/app/components/figma/image2.png"
+                  src="/images/image2.png"
                   alt="Profile"
                   className="w-full h-full object-cover"
                 />

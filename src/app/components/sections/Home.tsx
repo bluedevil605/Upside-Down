@@ -47,7 +47,7 @@ export function Home({ onExplore }: HomeProps) {
           }}
         >
           <img
-            src="src/app/components/figma/image.jpg"
+            src="/images/image.jpg"
             alt="Profile"
             className="w-full h-full object-cover"
           />
