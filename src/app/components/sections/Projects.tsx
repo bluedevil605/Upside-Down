@@ -16,12 +16,12 @@ export function Projects() {
     {
       title: 'Network Intrusion Detection System',
       category: 'Full Stack App',
-      description: 'a real-time Network Intrusion Detection System (IDS) in C++ using packet-level traffic analysis to detect port scans and DoS attacks.',
-      tech: ['Express', 'Redis', 'PostgreSQL', 'Docker'],
+      description: 'a real-time Network Intrusion Detection System (IDS) using packet-level traffic analysis to detect port scans and DoS attacks.',
+      tech: ['Python', 'React', 'Flask', 'Machine Learning'],
       image: 'bg-indigo-900/20',
-      status: 'In Progress',
-      github: 'https://github.com',
-      demo: 'https://demo.com'
+      status: 'Live',
+      github: 'https://github.com/bluedevil605/cypher-guard',
+      demo: 'https://github.com/bluedevil605/cypher-guard/releases'
     },
     {
       title: 'Hawkins Analytics',
